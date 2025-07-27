@@ -1,0 +1,6 @@
+# config.py
+API_ID = 22966506        
+API_HASH = "1a09a73b94449578b0c31fcb7bdc39c5"
+BOT_TOKEN = "7624987887:AAE_y4zTfDcNBmrbx7KPvRp0Qtwa_vvIJjc"
+CARD_NUMBER = "5022-2910-4818-2719"
+ADMIN_ID = 62835173                  
